@@ -1,0 +1,14 @@
+{
+    "Reconyx Hyperfire 1": {
+        "HFOV": 42.2,
+        "VFOV": 32.3
+    },
+    "Reconyx Hyperfire 2": {
+        "HFOV": 38.2,
+        "VFOV": 29.1
+    },
+    "Browning Recon Force Elite": {
+        "HFOV": 41.0,
+        "VFOV": 41.0
+    }
+}
