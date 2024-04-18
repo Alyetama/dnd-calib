@@ -1,0 +1,4534 @@
+[
+  {
+    "image": "https://biodiv.app/dnd/human_images/Cam0 02-10-2024/06.JPG",
+    "id": 204370,
+    "label": [
+      {
+        "x": 48.46609497070314,
+        "y": 2.503693103790281,
+        "width": 14.002133683843908,
+        "height": 57.937613975142966,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 2048,
+        "original_height": 1152
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36124,
+    "created_at": "2024-04-17T15:48:34.752064Z",
+    "updated_at": "2024-04-17T15:48:55.056458Z",
+    "lead_time": 17.541
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/Cam0 02-10-2024/09.JPG",
+    "id": 204371,
+    "label": [
+      {
+        "x": 45.60914611816406,
+        "y": 24.350866317749023,
+        "width": 9.655221939086914,
+        "height": 33.76553726196289,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 2048,
+        "original_height": 1152
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36125,
+    "created_at": "2024-04-17T15:48:43.603906Z",
+    "updated_at": "2024-04-17T15:48:58.891278Z",
+    "lead_time": 9.179
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/Cam0 02-10-2024/12.JPG",
+    "id": 204372,
+    "label": [
+      {
+        "x": 46.556732796760905,
+        "y": 24.810861504119853,
+        "width": 8.260160780104531,
+        "height": 26.617826617826594,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 2048,
+        "original_height": 1152
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36126,
+    "created_at": "2024-04-17T15:49:45.077525Z",
+    "updated_at": "2024-04-17T15:49:45.077545Z",
+    "lead_time": 44.856
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/Cam0 02-10-2024/15.JPG",
+    "id": 204373,
+    "label": [
+      {
+        "x": 53.15934065934066,
+        "y": 28.08302808302808,
+        "width": 6.868131868131868,
+        "height": 22.710622710622705,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 2048,
+        "original_height": 1152
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36127,
+    "created_at": "2024-04-17T15:50:05.325329Z",
+    "updated_at": "2024-04-17T15:50:05.325342Z",
+    "lead_time": 12.465
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/Cam0 02-10-2024/18.JPG",
+    "id": 204374,
+    "label": [
+      {
+        "x": 48.62637362637363,
+        "y": 31.990231990231987,
+        "width": 4.6703296703296715,
+        "height": 19.536019536019534,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 2048,
+        "original_height": 1152
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36128,
+    "created_at": "2024-04-17T15:50:23.722923Z",
+    "updated_at": "2024-04-17T15:50:23.722939Z",
+    "lead_time": 13.424
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/Cam1 02-10-2024/03.JPG",
+    "id": 204375,
+    "label": [
+      {
+        "x": 13.151248931884766,
+        "y": 2.8734326362609863,
+        "width": 25.52908706665039,
+        "height": 93.86712646484375,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36129,
+    "created_at": "2024-04-17T15:51:23.793469Z",
+    "updated_at": "2024-04-17T15:51:23.793495Z",
+    "lead_time": 6.679
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/Cam1 02-10-2024/06.JPG",
+    "id": 204376,
+    "label": [
+      {
+        "x": 19.853124618530273,
+        "y": 8.377021789550781,
+        "width": 14.539386749267578,
+        "height": 65.77186584472656,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36130,
+    "created_at": "2024-04-17T15:51:28.469065Z",
+    "updated_at": "2024-04-17T15:51:28.469088Z",
+    "lead_time": 2.848
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/Cam1 02-10-2024/09.JPG",
+    "id": 204377,
+    "label": [
+      {
+        "x": 24.950117111206055,
+        "y": 21.016664505004883,
+        "width": 8.605688095092773,
+        "height": 42.8063850402832,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36131,
+    "created_at": "2024-04-17T15:51:34.081060Z",
+    "updated_at": "2024-04-17T15:51:34.081076Z",
+    "lead_time": 2.922
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/Cam1 02-10-2024/12.JPG",
+    "id": 204378,
+    "label": [
+      {
+        "x": 20.09969139099121,
+        "y": 26.65700340270996,
+        "width": 9.742348670959473,
+        "height": 32.834144592285156,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36132,
+    "created_at": "2024-04-17T15:51:40.194770Z",
+    "updated_at": "2024-04-17T15:51:40.194790Z",
+    "lead_time": 3.602
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/Cam1 02-10-2024/15.JPG",
+    "id": 204379,
+    "label": [
+      {
+        "x": 15.109890109890104,
+        "y": 28.815628815628823,
+        "width": 6.868131868131869,
+        "height": 22.222222222222225,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36133,
+    "created_at": "2024-04-17T15:51:58.012541Z",
+    "updated_at": "2024-04-17T15:51:58.012559Z",
+    "lead_time": 16.122
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/Cam1 02-10-2024/18.JPG",
+    "id": 204380,
+    "label": [
+      {
+        "x": 16.307339449541285,
+        "y": 30.27522935779816,
+        "width": 5.7798165137614665,
+        "height": 20.550458715596335,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36134,
+    "created_at": "2024-04-17T15:52:13.195828Z",
+    "updated_at": "2024-04-17T15:52:13.195851Z",
+    "lead_time": 9.862
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/Cam1 02-10-2024/21.JPG",
+    "id": 204381,
+    "label": [
+      {
+        "x": 19.506880733944953,
+        "y": 31.19266055045872,
+        "width": 5.057339449541285,
+        "height": 17.431192660550458,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36135,
+    "created_at": "2024-04-17T15:52:26.542363Z",
+    "updated_at": "2024-04-17T15:52:26.542407Z",
+    "lead_time": 12.451
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/Cam1 02-10-2024/24.JPG",
+    "id": 204382,
+    "label": [
+      {
+        "x": 16.61697247706422,
+        "y": 34.495412844036714,
+        "width": 4.747706422018339,
+        "height": 15.779816513761455,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36136,
+    "created_at": "2024-04-17T15:52:49.937045Z",
+    "updated_at": "2024-04-17T15:52:49.937060Z",
+    "lead_time": 22.287
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/Cam15 02-10-2024/03.JPG",
+    "id": 204383,
+    "label": [
+      {
+        "x": 46.568572998046875,
+        "y": 2.855923652648926,
+        "width": 25.598812103271484,
+        "height": 94.09355926513672,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36137,
+    "created_at": "2024-04-17T15:52:55.488131Z",
+    "updated_at": "2024-04-17T15:52:55.488165Z",
+    "lead_time": 4.521
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/Cam15 02-10-2024/06.JPG",
+    "id": 204384,
+    "label": [
+      {
+        "x": 61.46840286254883,
+        "y": 41.194915771484375,
+        "width": 13.670393943786621,
+        "height": 55.78144836425781,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36138,
+    "created_at": "2024-04-17T15:52:59.045781Z",
+    "updated_at": "2024-04-17T15:52:59.045802Z",
+    "lead_time": 2.516
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/Cam15 02-10-2024/09.JPG",
+    "id": 204385,
+    "label": [
+      {
+        "x": 63.02176284790039,
+        "y": 55.30915832519531,
+        "width": 10.097103118896484,
+        "height": 41.653751373291016,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36139,
+    "created_at": "2024-04-17T15:53:02.881344Z",
+    "updated_at": "2024-04-17T15:53:02.881365Z",
+    "lead_time": 2.814
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/Cam16 02-10-2024/03.JPG",
+    "id": 204386,
+    "label": [
+      {
+        "x": 22.428077697753928,
+        "y": 2.6023178100585955,
+        "width": 33.75464035174167,
+        "height": 86.0832748413086,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 2048,
+        "original_height": 1152
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36140,
+    "created_at": "2024-04-17T15:53:31.363518Z",
+    "updated_at": "2024-04-17T15:53:31.363527Z",
+    "lead_time": 27.579
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/Cam16 02-10-2024/06.JPG",
+    "id": 204387,
+    "label": [
+      {
+        "x": 33.0084228515625,
+        "y": 2.3834853172302246,
+        "width": 14.8273286819458,
+        "height": 60.408203125,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 2048,
+        "original_height": 1152
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36141,
+    "created_at": "2024-04-17T15:53:35.936531Z",
+    "updated_at": "2024-04-17T15:53:35.936556Z",
+    "lead_time": 3.515
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/Cam16 02-10-2024/09.JPG",
+    "id": 204388,
+    "label": [
+      {
+        "x": 37.99123764038086,
+        "y": 10.986568450927734,
+        "width": 8.7476167678833,
+        "height": 42.28412628173828,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 2048,
+        "original_height": 1152
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36142,
+    "created_at": "2024-04-17T15:53:41.325200Z",
+    "updated_at": "2024-04-17T15:53:41.325230Z",
+    "lead_time": 4.372
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/Cam16 02-10-2024/12.JPG",
+    "id": 204389,
+    "label": [
+      {
+        "x": 36.369415283203125,
+        "y": 16.800254821777344,
+        "width": 7.887810707092285,
+        "height": 33.91093063354492,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 2048,
+        "original_height": 1152
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36143,
+    "created_at": "2024-04-17T15:53:45.546482Z",
+    "updated_at": "2024-04-17T15:53:45.546497Z",
+    "lead_time": 3.094
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/Cam16 02-10-2024/15.JPG",
+    "id": 204390,
+    "label": [
+      {
+        "x": 38.168025970458984,
+        "y": 19.53841209411621,
+        "width": 5.75629186630249,
+        "height": 26.226335525512695,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 2048,
+        "original_height": 1152
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36144,
+    "created_at": "2024-04-17T15:53:54.586794Z",
+    "updated_at": "2024-04-17T15:53:54.586819Z",
+    "lead_time": 7.442
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/Cam16 02-10-2024/18.JPG",
+    "id": 204391,
+    "label": [
+      {
+        "x": 39.13209915161133,
+        "y": 23.558414459228516,
+        "width": 4.994696617126465,
+        "height": 17.336898803710938,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 2048,
+        "original_height": 1152
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36145,
+    "created_at": "2024-04-17T15:53:59.215760Z",
+    "updated_at": "2024-04-17T15:53:59.215782Z",
+    "lead_time": 3.622
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/Cam16 02-10-2024/21.JPG",
+    "id": 204392,
+    "label": [
+      {
+        "x": 39.52981651376147,
+        "y": 24.403669724770644,
+        "width": 4.64449541284404,
+        "height": 15.963302752293604,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 2048,
+        "original_height": 1152
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36146,
+    "created_at": "2024-04-17T15:54:17.507124Z",
+    "updated_at": "2024-04-17T15:54:17.507140Z",
+    "lead_time": 17.205
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/Cam16 02-10-2024/24.JPG",
+    "id": 204393,
+    "label": [
+      {
+        "x": 39.94266055045871,
+        "y": 27.155963302752294,
+        "width": 3.7155963302752344,
+        "height": 13.39449541284404,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 2048,
+        "original_height": 1152
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36147,
+    "created_at": "2024-04-17T15:54:50.115274Z",
+    "updated_at": "2024-04-17T15:54:50.115292Z",
+    "lead_time": 31.556
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/Cam19.2 02-10-2024/03.JPG",
+    "id": 204394,
+    "label": [
+      {
+        "x": 18.623340606689453,
+        "y": 3.351405143737793,
+        "width": 23.128015518188477,
+        "height": 93.70663452148438,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36148,
+    "created_at": "2024-04-17T15:54:55.899616Z",
+    "updated_at": "2024-04-17T15:54:55.899625Z",
+    "lead_time": 4.683
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/Cam19.2 02-10-2024/06.JPG",
+    "id": 204395,
+    "label": [
+      {
+        "x": 10.815370559692383,
+        "y": 37.10798263549805,
+        "width": 13.027789115905762,
+        "height": 59.78249740600586,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36149,
+    "created_at": "2024-04-17T15:55:00.990577Z",
+    "updated_at": "2024-04-17T15:55:00.990601Z",
+    "lead_time": 3.807
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/Cam19.2 02-10-2024/09.JPG",
+    "id": 204396,
+    "label": [
+      {
+        "x": 11.661671454753352,
+        "y": 53.537307739257756,
+        "width": 9.584858745609944,
+        "height": 43.16176605224608,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36150,
+    "created_at": "2024-04-17T15:55:14.473512Z",
+    "updated_at": "2024-04-17T15:55:14.473531Z",
+    "lead_time": 12.405
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/Cam19.2 02-10-2024/12.JPG",
+    "id": 204397,
+    "label": [
+      {
+        "x": 11.071215629577637,
+        "y": 60.039222717285156,
+        "width": 8.925086975097656,
+        "height": 34.180335998535156,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36151,
+    "created_at": "2024-04-17T15:55:20.776953Z",
+    "updated_at": "2024-04-17T15:55:20.776989Z",
+    "lead_time": 4.501
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/Cam19.2 02-10-2024/15.JPG",
+    "id": 204398,
+    "label": [
+      {
+        "x": 13.115564346313477,
+        "y": 64.2613754272461,
+        "width": 7.317378997802734,
+        "height": 27.635866165161133,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36152,
+    "created_at": "2024-04-17T15:55:24.798807Z",
+    "updated_at": "2024-04-17T15:55:24.798828Z",
+    "lead_time": 2.909
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/Cam19.2 02-10-2024/18.JPG",
+    "id": 204399,
+    "label": [
+      {
+        "x": 11.478241920471191,
+        "y": 66.15562438964844,
+        "width": 6.063583850860596,
+        "height": 23.33580780029297,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36153,
+    "created_at": "2024-04-17T15:55:28.634997Z",
+    "updated_at": "2024-04-17T15:55:28.635020Z",
+    "lead_time": 2.913
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/Cam19.2 02-10-2024/21.JPG",
+    "id": 204400,
+    "label": [
+      {
+        "x": 11.81411361694336,
+        "y": 68.03575134277344,
+        "width": 4.836873531341553,
+        "height": 19.75473976135254,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36154,
+    "created_at": "2024-04-17T15:55:33.038058Z",
+    "updated_at": "2024-04-17T15:55:33.038081Z",
+    "lead_time": 3.427
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/Cam19.2 02-10-2024/24.JPG",
+    "id": 204401,
+    "label": [
+      {
+        "x": 12.749340057373047,
+        "y": 69.38929748535156,
+        "width": 4.158132076263428,
+        "height": 17.523622512817383,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36155,
+    "created_at": "2024-04-17T15:55:38.509764Z",
+    "updated_at": "2024-04-17T15:55:38.509789Z",
+    "lead_time": 4.467
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/Cam2 02-10-2024/03.JPG",
+    "id": 204402,
+    "label": [
+      {
+        "x": 24.755531311035156,
+        "y": 0.10673701763153076,
+        "width": 21.825145721435547,
+        "height": 52.932960510253906,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36156,
+    "created_at": "2024-04-17T15:55:43.749911Z",
+    "updated_at": "2024-04-17T15:55:43.749953Z",
+    "lead_time": 4.279
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/Cam2 02-10-2024/06.JPG",
+    "id": 204403,
+    "label": [
+      {
+        "x": 27.685964584350586,
+        "y": 0.046990811824798584,
+        "width": 12.9811372756958,
+        "height": 39.69706726074219,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36157,
+    "created_at": "2024-04-17T15:55:49.819120Z",
+    "updated_at": "2024-04-17T15:55:49.819146Z",
+    "lead_time": 4.877
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/Cam2 02-10-2024/09.JPG",
+    "id": 204404,
+    "label": [
+      {
+        "x": 29.2504940032959,
+        "y": 0.019531697034835815,
+        "width": 6.280075550079346,
+        "height": 24.863204956054688,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36158,
+    "created_at": "2024-04-17T15:55:56.259020Z",
+    "updated_at": "2024-04-17T15:55:56.259029Z",
+    "lead_time": 5.377
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/Cam2 02-10-2024/12.JPG",
+    "id": 204405,
+    "label": [
+      {
+        "x": 28.383027522935777,
+        "y": 0,
+        "width": 6.811926605504584,
+        "height": 18.71559633027522,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36159,
+    "created_at": "2024-04-17T15:56:09.075923Z",
+    "updated_at": "2024-04-17T15:56:09.075941Z",
+    "lead_time": 11.729
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/Cam2 02-10-2024/15.JPG",
+    "id": 204406,
+    "label": [
+      {
+        "x": 30.550458715596335,
+        "y": 0,
+        "width": 5.366972477064215,
+        "height": 14.311926605504588,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36160,
+    "created_at": "2024-04-17T15:56:21.251951Z",
+    "updated_at": "2024-04-17T15:56:21.251960Z",
+    "lead_time": 11.106
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/Cam2 02-10-2024/21.JPG",
+    "id": 204407,
+    "label": [
+      {
+        "x": 32.51146788990826,
+        "y": 0,
+        "width": 3.8188073394495348,
+        "height": 12.660550458715598,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36161,
+    "created_at": "2024-04-17T15:56:30.849291Z",
+    "updated_at": "2024-04-17T15:56:30.849316Z",
+    "lead_time": 8.631
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/Cam2 02-10-2024/24.JPG",
+    "id": 204408,
+    "label": [
+      {
+        "x": 35.607798165137616,
+        "y": 0,
+        "width": 2.5802752293577953,
+        "height": 10.642201834862385,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36162,
+    "created_at": "2024-04-17T15:56:42.877839Z",
+    "updated_at": "2024-04-17T15:56:42.877862Z",
+    "lead_time": 10.982
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/Cam23/03.JPG",
+    "id": 204409,
+    "label": [
+      {
+        "x": 35.3395881652832,
+        "y": 2.4558277130126953,
+        "width": 31.744714736938477,
+        "height": 94.7863998413086,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 2048,
+        "original_height": 1152
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36163,
+    "created_at": "2024-04-17T15:56:48.688298Z",
+    "updated_at": "2024-04-17T15:56:48.688324Z",
+    "lead_time": 4.851
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/Cam23/06.JPG",
+    "id": 204410,
+    "label": [
+      {
+        "x": 48.1305046081543,
+        "y": 20.326467514038086,
+        "width": 15.72541332244873,
+        "height": 76.66830444335938,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 2048,
+        "original_height": 1152
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36164,
+    "created_at": "2024-04-17T15:56:55.078772Z",
+    "updated_at": "2024-04-17T15:56:55.078796Z",
+    "lead_time": 5.466
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/Cam23/09.JPG",
+    "id": 204411,
+    "label": [
+      {
+        "x": 51.31617736816406,
+        "y": 36.16509246826172,
+        "width": 11.288338661193848,
+        "height": 55.939640045166016,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 2048,
+        "original_height": 1152
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36165,
+    "created_at": "2024-04-17T15:56:59.008901Z",
+    "updated_at": "2024-04-17T15:56:59.008924Z",
+    "lead_time": 2.972
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/Cam23/12.JPG",
+    "id": 204412,
+    "label": [
+      {
+        "x": 53.25397872924805,
+        "y": 50.63141632080078,
+        "width": 8.327078819274902,
+        "height": 38.30713653564453,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 2048,
+        "original_height": 1152
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36166,
+    "created_at": "2024-04-17T15:57:03.124730Z",
+    "updated_at": "2024-04-17T15:57:03.124739Z",
+    "lead_time": 3.138
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/Cam23/15.JPG",
+    "id": 204413,
+    "label": [
+      {
+        "x": 52.22477064220183,
+        "y": 56.33027522935781,
+        "width": 6.0894495412843925,
+        "height": 32.11009174311927,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 2048,
+        "original_height": 1152
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36167,
+    "created_at": "2024-04-17T15:57:19.486375Z",
+    "updated_at": "2024-04-17T15:57:19.486390Z",
+    "lead_time": 15.333
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/Cam23/18.JPG",
+    "id": 204414,
+    "label": [
+      {
+        "x": 53.1163520812988,
+        "y": 62.661455661878676,
+        "width": 5.354821681976317,
+        "height": 23.318807094468987,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 2048,
+        "original_height": 1152
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36168,
+    "created_at": "2024-04-17T15:57:30.243809Z",
+    "updated_at": "2024-04-17T15:57:30.243837Z",
+    "lead_time": 9.542
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/Cam23/21.JPG",
+    "id": 204415,
+    "label": [
+      {
+        "x": 54.8360481262207,
+        "y": 53.48836135864258,
+        "width": 4.560107231140137,
+        "height": 22.05669593811035,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 2048,
+        "original_height": 1152
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36169,
+    "created_at": "2024-04-17T15:57:35.050025Z",
+    "updated_at": "2024-04-17T15:57:35.050051Z",
+    "lead_time": 3.575
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/Cam23/24.JPG",
+    "id": 204416,
+    "label": [
+      {
+        "x": 56.456422018348626,
+        "y": 57.98165137614679,
+        "width": 3.9220183486238764,
+        "height": 15.596330275229347,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 2048,
+        "original_height": 1152
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36170,
+    "created_at": "2024-04-17T15:57:46.248149Z",
+    "updated_at": "2024-04-17T15:57:46.248170Z",
+    "lead_time": 10.216
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/Cam4 02-10-2024/03.JPG",
+    "id": 204417,
+    "label": [
+      {
+        "x": 44.163394927978516,
+        "y": 2.786076068878174,
+        "width": 36.66370391845703,
+        "height": 94.44344329833984,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 2048,
+        "original_height": 1152
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36171,
+    "created_at": "2024-04-17T15:57:52.099234Z",
+    "updated_at": "2024-04-17T15:57:52.099263Z",
+    "lead_time": 4.892
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/Cam4 02-10-2024/06.JPG",
+    "id": 204418,
+    "label": [
+      {
+        "x": 56.49589920043945,
+        "y": 14.916616439819336,
+        "width": 16.283966064453125,
+        "height": 68.87275695800781,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 2048,
+        "original_height": 1152
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36172,
+    "created_at": "2024-04-17T15:57:58.015083Z",
+    "updated_at": "2024-04-17T15:57:58.015111Z",
+    "lead_time": 4.906
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/Cam4 02-10-2024/09.JPG",
+    "id": 204419,
+    "label": [
+      {
+        "x": 56.26318359375,
+        "y": 33.73884201049805,
+        "width": 11.94320297241211,
+        "height": 41.76459884643555,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 2048,
+        "original_height": 1152
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36173,
+    "created_at": "2024-04-17T15:58:02.003693Z",
+    "updated_at": "2024-04-17T15:58:02.003701Z",
+    "lead_time": 2.968
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/Cam4 02-10-2024/12.JPG",
+    "id": 204420,
+    "label": [
+      {
+        "x": 59.328716278076186,
+        "y": 42.799148559570305,
+        "width": 9.035841670605027,
+        "height": 30.8509292602539,
+        "rotation": 0,
+        "rectanglelabels": [
+          "person"
+        ],
+        "original_width": 2048,
+        "original_height": 1152
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36174,
+    "created_at": "2024-04-17T15:58:09.461109Z",
+    "updated_at": "2024-04-17T15:58:09.461130Z",
+    "lead_time": 6.318
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/Cam4 02-10-2024/15.JPG",
+    "id": 204421,
+    "label": [
+      {
+        "x": 58.079708099365234,
+        "y": 47.075592041015625,
+        "width": 7.3824462890625,
+        "height": 22.89743995666504,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 2048,
+        "original_height": 1152
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36175,
+    "created_at": "2024-04-17T15:58:15.232917Z",
+    "updated_at": "2024-04-17T15:58:15.232949Z",
+    "lead_time": 4.681
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/Cam4 02-10-2024/18.JPG",
+    "id": 204422,
+    "label": [
+      {
+        "x": 59.177896167160185,
+        "y": 52.32354354858397,
+        "width": 5.616341446517812,
+        "height": 19.03103894924901,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 2048,
+        "original_height": 1152
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36176,
+    "created_at": "2024-04-17T15:58:33.314680Z",
+    "updated_at": "2024-04-17T15:58:33.314688Z",
+    "lead_time": 16.884
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/Cam4 02-10-2024/21.JPG",
+    "id": 204423,
+    "label": [
+      {
+        "x": 59.03669724770641,
+        "y": 55.96330275229357,
+        "width": 5.470183486238539,
+        "height": 14.678899082568817,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 2048,
+        "original_height": 1152
+      },
+      {
+        "x": 61.30733944954129,
+        "y": 55.96330275229357,
+        "width": 0.4128440366972441,
+        "height": 0.3669724770642233,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 2048,
+        "original_height": 1152
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36177,
+    "created_at": "2024-04-17T15:58:48.954907Z",
+    "updated_at": "2024-04-17T15:58:48.954927Z",
+    "lead_time": 14.518
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/Cam4 02-10-2024/24.JPG",
+    "id": 204424,
+    "label": [
+      {
+        "x": 59.55275229357798,
+        "y": 60,
+        "width": 4.747706422018354,
+        "height": 11.0091743119266,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 2048,
+        "original_height": 1152
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36178,
+    "created_at": "2024-04-17T15:58:56.591458Z",
+    "updated_at": "2024-04-17T15:58:56.591483Z",
+    "lead_time": 6.568
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/Cam5 02-10-2024/03.JPG",
+    "id": 204425,
+    "label": [
+      {
+        "x": 42.079925537109375,
+        "y": 2.8027236461639404,
+        "width": 20.050989151000977,
+        "height": 94.02332305908203,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36179,
+    "created_at": "2024-04-17T15:59:03.166952Z",
+    "updated_at": "2024-04-17T15:59:03.166962Z",
+    "lead_time": 5.611
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/Cam5 02-10-2024/06.JPG",
+    "id": 204426,
+    "label": [
+      {
+        "x": 35.88510513305664,
+        "y": 24.34296989440918,
+        "width": 11.722736358642578,
+        "height": 66.52078247070312,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36180,
+    "created_at": "2024-04-17T15:59:08.567729Z",
+    "updated_at": "2024-04-17T15:59:08.567739Z",
+    "lead_time": 4.222
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/Cam5 02-10-2024/09.JPG",
+    "id": 204427,
+    "label": [
+      {
+        "x": 38.95127487182617,
+        "y": 41.97880935668945,
+        "width": 8.126745223999023,
+        "height": 38.84367370605469,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36181,
+    "created_at": "2024-04-17T15:59:12.869122Z",
+    "updated_at": "2024-04-17T15:59:12.869143Z",
+    "lead_time": 3.308
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/Cam5 02-10-2024/12.JPG",
+    "id": 204428,
+    "label": [
+      {
+        "x": 37.94165420532228,
+        "y": 45.17602157592771,
+        "width": 8.823345805526868,
+        "height": 32.090015411376946,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36182,
+    "created_at": "2024-04-17T15:59:23.951094Z",
+    "updated_at": "2024-04-17T15:59:23.951115Z",
+    "lead_time": 9.989
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/Cam5 02-10-2024/15.JPG",
+    "id": 204429,
+    "label": [
+      {
+        "x": 38.04804229736328,
+        "y": 52.560203552246094,
+        "width": 6.2531538009643555,
+        "height": 23.08742904663086,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36183,
+    "created_at": "2024-04-17T15:59:29.098245Z",
+    "updated_at": "2024-04-17T15:59:29.098271Z",
+    "lead_time": 4.108
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/Cam5 02-10-2024/18.JPG",
+    "id": 204430,
+    "label": [
+      {
+        "x": 40.76834862385322,
+        "y": 57.61467889908259,
+        "width": 4.850917431192666,
+        "height": 15.41284403669724,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36184,
+    "created_at": "2024-04-17T15:59:40.818706Z",
+    "updated_at": "2024-04-17T15:59:40.818725Z",
+    "lead_time": 9.47
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/Cam5 02-10-2024/21.JPG",
+    "id": 204431,
+    "label": [
+      {
+        "x": 42.522935779816514,
+        "y": 58.71559633027523,
+        "width": 4.7477064220183465,
+        "height": 13.761467889908246,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36185,
+    "created_at": "2024-04-17T15:59:48.089933Z",
+    "updated_at": "2024-04-17T15:59:48.089942Z",
+    "lead_time": 6.281
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/Cam5 02-10-2024/24.JPG",
+    "id": 204432,
+    "label": [
+      {
+        "x": 40.87155963302752,
+        "y": 61.46788990825688,
+        "width": 4.334862385321102,
+        "height": 13.211009174311926,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36186,
+    "created_at": "2024-04-17T15:59:55.735851Z",
+    "updated_at": "2024-04-17T15:59:55.735860Z",
+    "lead_time": 6.471
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/Cam6  02-10-2024/03.JPG",
+    "id": 204433,
+    "label": [
+      {
+        "x": 60.04275131225586,
+        "y": 2.84234881401062,
+        "width": 26.16200065612793,
+        "height": 93.96923065185547,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36187,
+    "created_at": "2024-04-17T16:00:02.014582Z",
+    "updated_at": "2024-04-17T16:00:02.014599Z",
+    "lead_time": 5.129
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/Cam6  02-10-2024/06.JPG",
+    "id": 204434,
+    "label": [
+      {
+        "x": 59.785009681631685,
+        "y": 26.522478103637702,
+        "width": 13.579959571908399,
+        "height": 66.84639739990236,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36188,
+    "created_at": "2024-04-17T16:00:11.543414Z",
+    "updated_at": "2024-04-17T16:00:11.543429Z",
+    "lead_time": 8.085
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/Cam6  02-10-2024/09.JPG",
+    "id": 204435,
+    "label": [
+      {
+        "x": 59.302574157714844,
+        "y": 44.80402374267578,
+        "width": 9.333457946777344,
+        "height": 45.442996978759766,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36189,
+    "created_at": "2024-04-17T16:00:17.872989Z",
+    "updated_at": "2024-04-17T16:00:17.872998Z",
+    "lead_time": 5.169
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/Cam6  02-10-2024/12.JPG",
+    "id": 204436,
+    "label": [
+      {
+        "x": 55.49772262573242,
+        "y": 52.66606903076172,
+        "width": 9.70703125,
+        "height": 32.35810852050781,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36190,
+    "created_at": "2024-04-17T16:00:23.839420Z",
+    "updated_at": "2024-04-17T16:00:23.839430Z",
+    "lead_time": 4.878
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/Cam6  02-10-2024/15.JPG",
+    "id": 204437,
+    "label": [
+      {
+        "x": 56.139957427978516,
+        "y": 58.4575309753418,
+        "width": 8.009135246276855,
+        "height": 25.703462600708008,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36191,
+    "created_at": "2024-04-17T16:00:31.102283Z",
+    "updated_at": "2024-04-17T16:00:31.102295Z",
+    "lead_time": 6.006
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/Cam6  02-10-2024/18.JPG",
+    "id": 204438,
+    "label": [
+      {
+        "x": 59.55275229357798,
+        "y": 60.18348623853211,
+        "width": 5.470183486238535,
+        "height": 21.834862385321102,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36192,
+    "created_at": "2024-04-17T16:00:50.442086Z",
+    "updated_at": "2024-04-17T16:00:50.442095Z",
+    "lead_time": 18.187
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/Cam6  02-10-2024/21.JPG",
+    "id": 204439,
+    "label": [
+      {
+        "x": 50.038993835449176,
+        "y": 66.08660888671879,
+        "width": 5.088361512630392,
+        "height": 17.773066433197815,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36193,
+    "created_at": "2024-04-17T16:01:02.151830Z",
+    "updated_at": "2024-04-17T16:01:02.151842Z",
+    "lead_time": 10.104
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/Cam6  02-10-2024/24.JPG",
+    "id": 204440,
+    "label": [
+      {
+        "x": 48.56803894042969,
+        "y": 67.38770294189453,
+        "width": 4.737815856933594,
+        "height": 16.020689010620117,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36194,
+    "created_at": "2024-04-17T16:01:07.091190Z",
+    "updated_at": "2024-04-17T16:01:07.091201Z",
+    "lead_time": 3.69
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/Cam7 02-10-2024/06.JPG",
+    "id": 204441,
+    "label": [
+      {
+        "x": 68.57813262939453,
+        "y": 26.64893341064453,
+        "width": 11.034272193908691,
+        "height": 45.790557861328125,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36195,
+    "created_at": "2024-04-17T16:01:12.111630Z",
+    "updated_at": "2024-04-17T16:01:12.111659Z",
+    "lead_time": 3.935
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/Cam7 02-10-2024/09.JPG",
+    "id": 204442,
+    "label": [
+      {
+        "x": 62.66416168212887,
+        "y": 40.582660675048814,
+        "width": 6.741142272949216,
+        "height": 27.854732618419405,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36196,
+    "created_at": "2024-04-17T16:01:26.708178Z",
+    "updated_at": "2024-04-17T16:01:26.708207Z",
+    "lead_time": 13.311
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/Cam7 02-10-2024/12.JPG",
+    "id": 204443,
+    "label": [
+      {
+        "x": 63.73474457067084,
+        "y": 40.45828838523376,
+        "width": 7.847422827274439,
+        "height": 23.755524381585083,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36197,
+    "created_at": "2024-04-17T16:01:45.439645Z",
+    "updated_at": "2024-04-17T16:01:45.439668Z",
+    "lead_time": 17.298
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/Cam7 02-10-2024/15.JPG",
+    "id": 204444,
+    "label": [
+      {
+        "x": 65.02293577981652,
+        "y": 46.0550458715596,
+        "width": 5.676605504587174,
+        "height": 17.981651376146758,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36198,
+    "created_at": "2024-04-17T16:02:01.966732Z",
+    "updated_at": "2024-04-17T16:02:01.966751Z",
+    "lead_time": 15.329
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/Cam7 02-10-2024/21.JPG",
+    "id": 204445,
+    "label": [
+      {
+        "x": 65.33256880733946,
+        "y": 47.1559633027523,
+        "width": 3.612385321100902,
+        "height": 13.944954128440358,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36199,
+    "created_at": "2024-04-17T16:02:10.823400Z",
+    "updated_at": "2024-04-17T16:02:10.823409Z",
+    "lead_time": 7.678
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/Cam7 02-10-2024/24.JPG",
+    "id": 204446,
+    "label": [
+      {
+        "x": 68.84174311926606,
+        "y": 48.440366972477065,
+        "width": 2.5802752293577953,
+        "height": 10.64220183486239,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36200,
+    "created_at": "2024-04-17T16:02:18.912445Z",
+    "updated_at": "2024-04-17T16:02:18.912469Z",
+    "lead_time": 6.768
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/Cam9 02-10-2024/12.JPG",
+    "id": 204447,
+    "label": [
+      {
+        "x": 69.12671661376955,
+        "y": 69.93164272483335,
+        "width": 8.729600906372072,
+        "height": 26.05986957375063,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 2048,
+        "original_height": 1152
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36201,
+    "created_at": "2024-04-17T16:02:29.264839Z",
+    "updated_at": "2024-04-17T16:02:29.264858Z",
+    "lead_time": 8.932
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/Cam9 02-10-2024/24.JPG",
+    "id": 204448,
+    "label": [
+      {
+        "x": 78.74999999999997,
+        "y": 75.04587155963301,
+        "width": 4.231651376146812,
+        "height": 15.779816513761476,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 2048,
+        "original_height": 1152
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36202,
+    "created_at": "2024-04-17T16:02:42.951799Z",
+    "updated_at": "2024-04-17T16:02:42.951813Z",
+    "lead_time": 11.753
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/PM10/03.JPG",
+    "id": 204449,
+    "label": [
+      {
+        "x": 33.74346127641311,
+        "y": 0.0042378902435302734,
+        "width": 20.270958279250937,
+        "height": 95.87902832031254,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36203,
+    "created_at": "2024-04-17T16:02:57.320086Z",
+    "updated_at": "2024-04-17T16:02:57.320105Z",
+    "lead_time": 13.383
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/PM10/06.JPG",
+    "id": 204450,
+    "label": [
+      {
+        "x": 26.41936492919922,
+        "y": 30.58263397216797,
+        "width": 10.897245407104492,
+        "height": 51.12318420410156,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36204,
+    "created_at": "2024-04-17T16:03:02.516947Z",
+    "updated_at": "2024-04-17T16:03:02.516970Z",
+    "lead_time": 4.217
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/PM10/09.JPG",
+    "id": 204451,
+    "label": [
+      {
+        "x": 28.497432708740227,
+        "y": 41.697795867919915,
+        "width": 7.973873820873583,
+        "height": 38.013214111328125,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36205,
+    "created_at": "2024-04-17T16:03:12.577691Z",
+    "updated_at": "2024-04-17T16:03:12.577721Z",
+    "lead_time": 9.096
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/PM10/12.JPG",
+    "id": 204452,
+    "label": [
+      {
+        "x": 33.361366271972685,
+        "y": 53.46739196777342,
+        "width": 7.338793544594275,
+        "height": 26.474010467529297,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36206,
+    "created_at": "2024-04-17T16:03:20.996395Z",
+    "updated_at": "2024-04-17T16:03:20.996417Z",
+    "lead_time": 7.425
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/PM10/15.JPG",
+    "id": 204453,
+    "label": [
+      {
+        "x": 35.20439595913668,
+        "y": 58.84770202636713,
+        "width": 5.9089916255495885,
+        "height": 19.977088928222646,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36207,
+    "created_at": "2024-04-17T16:03:33.509834Z",
+    "updated_at": "2024-04-17T16:03:33.509851Z",
+    "lead_time": 11.075
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/PM10/18.JPG",
+    "id": 204454,
+    "label": [
+      {
+        "x": 36.02064220183486,
+        "y": 60.733944954128425,
+        "width": 4.128440366972494,
+        "height": 16.513761467889914,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36208,
+    "created_at": "2024-04-17T16:03:47.434396Z",
+    "updated_at": "2024-04-17T16:03:47.434414Z",
+    "lead_time": 12.36
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/PM10/21.JPG",
+    "id": 204455,
+    "label": [
+      {
+        "x": 37.15596330275229,
+        "y": 63.853211009174316,
+        "width": 3.3027522935779814,
+        "height": 13.211009174311926,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36209,
+    "created_at": "2024-04-17T16:03:56.083119Z",
+    "updated_at": "2024-04-17T16:03:56.083140Z",
+    "lead_time": 7.292
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/PM10/24.JPG",
+    "id": 204456,
+    "label": [
+      {
+        "x": 32.09862385321101,
+        "y": 65.87155963302752,
+        "width": 3.199541284403672,
+        "height": 12.844036697247716,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36210,
+    "created_at": "2024-04-17T16:04:04.615172Z",
+    "updated_at": "2024-04-17T16:04:04.615195Z",
+    "lead_time": 7.487
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/PM11 02-10-2024/06.JPG",
+    "id": 204457,
+    "label": [
+      {
+        "x": 67.10771949138109,
+        "y": 2.3327147807549973,
+        "width": 11.970474295659912,
+        "height": 63.670707702636676,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36211,
+    "created_at": "2024-04-17T16:04:32.890307Z",
+    "updated_at": "2024-04-17T16:04:32.890315Z",
+    "lead_time": 27.281
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/PM11 02-10-2024/09.JPG",
+    "id": 204458,
+    "label": [
+      {
+        "x": 61.44759750366211,
+        "y": 10.489608764648438,
+        "width": 8.739192008972168,
+        "height": 43.84312438964844,
+        "rotation": 0,
+        "rectanglelabels": [
+          "person"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36212,
+    "created_at": "2024-04-17T16:04:37.246734Z",
+    "updated_at": "2024-04-17T16:04:37.246755Z",
+    "lead_time": 2.87
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/PM11 02-10-2024/12.JPG",
+    "id": 204459,
+    "label": [
+      {
+        "x": 52.473609924316406,
+        "y": 13.811260223388672,
+        "width": 7.678536891937256,
+        "height": 30.759340286254883,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36213,
+    "created_at": "2024-04-17T16:04:44.136153Z",
+    "updated_at": "2024-04-17T16:04:44.136178Z",
+    "lead_time": 5.808
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/PM11 02-10-2024/15.JPG",
+    "id": 204460,
+    "label": [
+      {
+        "x": 63.930084228515625,
+        "y": 20.922492980957035,
+        "width": 5.366278232784459,
+        "height": 25.185600280761715,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      },
+      {
+        "x": 0,
+        "y": 4.60183048248291,
+        "width": 6.672878742218018,
+        "height": 65.11376953125,
+        "rotation": 0,
+        "rectanglelabels": [
+          "person"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36214,
+    "created_at": "2024-04-17T16:04:57.953527Z",
+    "updated_at": "2024-04-17T16:04:57.953550Z",
+    "lead_time": 12.832
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/PM11 02-10-2024/18.JPG",
+    "id": 204461,
+    "label": [
+      {
+        "x": 53.15366972477064,
+        "y": 20.18348623853211,
+        "width": 4.644495412844037,
+        "height": 21.46788990825688,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36215,
+    "created_at": "2024-04-17T16:05:12.822010Z",
+    "updated_at": "2024-04-17T16:05:12.822028Z",
+    "lead_time": 13.856
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/PM11 02-10-2024/21.JPG",
+    "id": 204462,
+    "label": [
+      {
+        "x": 62.236238532110086,
+        "y": 22.568807339449542,
+        "width": 4.231651376146793,
+        "height": 20.18348623853211,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36216,
+    "created_at": "2024-04-17T16:05:26.358494Z",
+    "updated_at": "2024-04-17T16:05:26.358503Z",
+    "lead_time": 12.416
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/PM11 02-10-2024/24.JPG",
+    "id": 204463,
+    "label": [
+      {
+        "x": 60.89449541284403,
+        "y": 25.321100917431195,
+        "width": 4.438073394495426,
+        "height": 16.88073394495413,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36217,
+    "created_at": "2024-04-17T16:05:36.915993Z",
+    "updated_at": "2024-04-17T16:05:36.916002Z",
+    "lead_time": 9.38
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/PM16 02-10-2024/03.JPG",
+    "id": 204464,
+    "label": [
+      {
+        "x": 30.78451156616211,
+        "y": 2.7648181915283203,
+        "width": 27.800798416137695,
+        "height": 94.36567687988281,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 2048,
+        "original_height": 1152
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36218,
+    "created_at": "2024-04-17T16:05:43.410651Z",
+    "updated_at": "2024-04-17T16:05:43.410664Z",
+    "lead_time": 5.338
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/PM16 02-10-2024/06.JPG",
+    "id": 204465,
+    "label": [
+      {
+        "x": 41.169918060302734,
+        "y": 26.352066040039062,
+        "width": 15.442421913146973,
+        "height": 64.48785400390625,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 2048,
+        "original_height": 1152
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36219,
+    "created_at": "2024-04-17T16:29:51.614281Z",
+    "updated_at": "2024-04-17T16:29:51.614304Z",
+    "lead_time": 1447.126
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/PM16 02-10-2024/09.JPG",
+    "id": 204466,
+    "label": [
+      {
+        "x": 40.51429748535156,
+        "y": 42.71228790283203,
+        "width": 10.00208568572998,
+        "height": 40.6018180847168,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 2048,
+        "original_height": 1152
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36220,
+    "created_at": "2024-04-17T16:29:56.558325Z",
+    "updated_at": "2024-04-17T16:29:56.558349Z",
+    "lead_time": 3.598
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/PM16 02-10-2024/12.JPG",
+    "id": 204467,
+    "label": [
+      {
+        "x": 42.40983200073242,
+        "y": 46.302425384521484,
+        "width": 7.610353946685791,
+        "height": 32.36276626586914,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 2048,
+        "original_height": 1152
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36221,
+    "created_at": "2024-04-17T16:30:00.242849Z",
+    "updated_at": "2024-04-17T16:30:00.242871Z",
+    "lead_time": 2.675
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/PM16 02-10-2024/15.JPG",
+    "id": 204468,
+    "label": [
+      {
+        "x": 43.09668731689453,
+        "y": 52.362586975097656,
+        "width": 5.886584281921387,
+        "height": 24.840730667114258,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 2048,
+        "original_height": 1152
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36222,
+    "created_at": "2024-04-17T16:30:05.160068Z",
+    "updated_at": "2024-04-17T16:30:05.160078Z",
+    "lead_time": 3.712
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/PM16 02-10-2024/18.JPG",
+    "id": 204469,
+    "label": [
+      {
+        "x": 41.966575622558594,
+        "y": 57.93035125732422,
+        "width": 5.2252678871154785,
+        "height": 19.286134719848633,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 2048,
+        "original_height": 1152
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36223,
+    "created_at": "2024-04-17T16:30:09.965252Z",
+    "updated_at": "2024-04-17T16:30:09.965281Z",
+    "lead_time": 3.748
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/PM16 02-10-2024/21.JPG",
+    "id": 204470,
+    "label": [
+      {
+        "x": 43.848724365234375,
+        "y": 61.245704650878906,
+        "width": 4.569721221923828,
+        "height": 15.41917610168457,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 2048,
+        "original_height": 1152
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36224,
+    "created_at": "2024-04-17T16:30:14.233491Z",
+    "updated_at": "2024-04-17T16:30:14.233518Z",
+    "lead_time": 2.83
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/PM16 02-10-2024/24.JPG",
+    "id": 204471,
+    "label": [
+      {
+        "x": 43.86467889908257,
+        "y": 64.58715596330273,
+        "width": 3.9220183486238533,
+        "height": 11.559633027522912,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 2048,
+        "original_height": 1152
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36225,
+    "created_at": "2024-04-17T16:30:26.840383Z",
+    "updated_at": "2024-04-17T16:30:26.840400Z",
+    "lead_time": 11.032
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/PM19 02-10-2024/03.JPG",
+    "id": 204472,
+    "label": [
+      {
+        "x": 17.62207794189453,
+        "y": 2.7962565422058105,
+        "width": 23.395444869995117,
+        "height": 94.09270477294922,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36226,
+    "created_at": "2024-04-17T16:30:32.254282Z",
+    "updated_at": "2024-04-17T16:30:32.254306Z",
+    "lead_time": 4.307
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/PM19 02-10-2024/09.JPG",
+    "id": 204473,
+    "label": [
+      {
+        "x": 19.366736228312902,
+        "y": 40.36765359301086,
+        "width": 9.117458089776013,
+        "height": 42.4190788269043,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36227,
+    "created_at": "2024-04-17T16:30:57.449605Z",
+    "updated_at": "2024-04-17T16:30:57.449615Z",
+    "lead_time": 24.232
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/PM19 02-10-2024/12.JPG",
+    "id": 204474,
+    "label": [
+      {
+        "x": 13.709524154663086,
+        "y": 42.85321044921875,
+        "width": 9.183905601501465,
+        "height": 34.96656036376953,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36228,
+    "created_at": "2024-04-17T16:31:05.974910Z",
+    "updated_at": "2024-04-17T16:31:05.974928Z",
+    "lead_time": 7.479
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/PM19 02-10-2024/15.JPG",
+    "id": 204475,
+    "label": [
+      {
+        "x": 18.06579208374024,
+        "y": 47.692131042480455,
+        "width": 6.395246129517155,
+        "height": 28.01583099365234,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36229,
+    "created_at": "2024-04-17T16:31:15.694785Z",
+    "updated_at": "2024-04-17T16:31:15.694796Z",
+    "lead_time": 8.805
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/PM21 02-10-2024/03.JPG",
+    "id": 204476,
+    "label": [
+      {
+        "x": 2.529275417327881,
+        "y": 2.6008307933807373,
+        "width": 30.813901901245117,
+        "height": 94.53333282470703,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 2048,
+        "original_height": 1152
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36230,
+    "created_at": "2024-04-17T16:31:21.070329Z",
+    "updated_at": "2024-04-17T16:31:21.070337Z",
+    "lead_time": 4.256
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/PM21 02-10-2024/06.JPG",
+    "id": 204477,
+    "label": [
+      {
+        "x": 5.437703609466552,
+        "y": 22.284328460693366,
+        "width": 15.073257918751565,
+        "height": 66.63258361816408,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 2048,
+        "original_height": 1152
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36231,
+    "created_at": "2024-04-17T16:31:33.517863Z",
+    "updated_at": "2024-04-17T16:31:33.517882Z",
+    "lead_time": 11.467
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/PM21 02-10-2024/09.JPG",
+    "id": 204478,
+    "label": [
+      {
+        "x": 10.66043090820312,
+        "y": 34.611232757568345,
+        "width": 10.8591492679141,
+        "height": 45.37185287475585,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 2048,
+        "original_height": 1152
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36232,
+    "created_at": "2024-04-17T16:31:46.876015Z",
+    "updated_at": "2024-04-17T16:31:46.876040Z",
+    "lead_time": 12.219
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/PM21 02-10-2024/12.JPG",
+    "id": 204479,
+    "label": [
+      {
+        "x": 11.600348472595211,
+        "y": 41.130237579345696,
+        "width": 8.677837039352559,
+        "height": 33.37223815917969,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 2048,
+        "original_height": 1152
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36233,
+    "created_at": "2024-04-17T16:31:55.689141Z",
+    "updated_at": "2024-04-17T16:31:55.689166Z",
+    "lead_time": 7.838
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/PM21 02-10-2024/15.JPG",
+    "id": 204480,
+    "label": [
+      {
+        "x": 11.915188789367676,
+        "y": 44.538360595703125,
+        "width": 7.044405460357666,
+        "height": 26.657894134521484,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 2048,
+        "original_height": 1152
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36234,
+    "created_at": "2024-04-17T16:32:02.480959Z",
+    "updated_at": "2024-04-17T16:32:02.480982Z",
+    "lead_time": 5.784
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/PM21 02-10-2024/18.JPG",
+    "id": 204481,
+    "label": [
+      {
+        "x": 13.585996627807617,
+        "y": 46.12873458862305,
+        "width": 5.665143013000488,
+        "height": 22.084110260009766,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 2048,
+        "original_height": 1152
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36235,
+    "created_at": "2024-04-17T16:39:18.551825Z",
+    "updated_at": "2024-04-17T16:39:18.551852Z",
+    "lead_time": 434.936
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/PM21 02-10-2024/21.JPG",
+    "id": 204482,
+    "label": [
+      {
+        "x": 13.623853211009173,
+        "y": 49.54128440366973,
+        "width": 4.541284403669724,
+        "height": 18.16513761467889,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 2048,
+        "original_height": 1152
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36236,
+    "created_at": "2024-04-17T16:39:27.459963Z",
+    "updated_at": "2024-04-17T16:39:27.459982Z",
+    "lead_time": 7.579
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/PM21 02-10-2024/24.JPG",
+    "id": 204483,
+    "label": [
+      {
+        "x": 9.195126367271495,
+        "y": 50.27205829445373,
+        "width": 4.101174354553222,
+        "height": 16.898252679667365,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 2048,
+        "original_height": 1152
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36237,
+    "created_at": "2024-04-17T16:39:51.729827Z",
+    "updated_at": "2024-04-17T16:39:51.729846Z",
+    "lead_time": 23.276
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/PM22 02-10-2024/03.JPG",
+    "id": 204484,
+    "label": [
+      {
+        "x": 0.008660554885864258,
+        "y": 2.572354793548584,
+        "width": 19.29722785949707,
+        "height": 95.10064697265625,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 2048,
+        "original_height": 1152
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36238,
+    "created_at": "2024-04-17T16:40:00.827084Z",
+    "updated_at": "2024-04-17T16:40:00.827119Z",
+    "lead_time": 7.796
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/PM22 02-10-2024/06.JPG",
+    "id": 204485,
+    "label": [
+      {
+        "x": 3.2288477420806885,
+        "y": 33.28007888793945,
+        "width": 13.280653953552246,
+        "height": 64.12223815917969,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 2048,
+        "original_height": 1152
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36239,
+    "created_at": "2024-04-17T16:40:09.192176Z",
+    "updated_at": "2024-04-17T16:40:09.192195Z",
+    "lead_time": 7.148
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/PM22 02-10-2024/09.JPG",
+    "id": 204486,
+    "label": [
+      {
+        "x": 1.020266056060791,
+        "y": 46.3004035949707,
+        "width": 11.705032348632812,
+        "height": 50.304176330566406,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 2048,
+        "original_height": 1152
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36240,
+    "created_at": "2024-04-17T16:41:01.312509Z",
+    "updated_at": "2024-04-17T16:41:01.312531Z",
+    "lead_time": 5.935
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/PM22 02-10-2024/12.JPG",
+    "id": 204487,
+    "label": [
+      {
+        "x": 0.0016614794731140035,
+        "y": 49.41993370406128,
+        "width": 5.62186667241088,
+        "height": 42.60590506037437,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 2048,
+        "original_height": 1152
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36241,
+    "created_at": "2024-04-17T16:41:21.235256Z",
+    "updated_at": "2024-04-17T16:41:21.235300Z",
+    "lead_time": 18.769
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/PM22 02-10-2024/15.JPG",
+    "id": 204488,
+    "label": [
+      {
+        "x": 0.309937447309494,
+        "y": 52.68412399291992,
+        "width": 8.340108871459961,
+        "height": 30.788898468017578,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 2048,
+        "original_height": 1152
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36242,
+    "created_at": "2024-04-17T16:41:28.443039Z",
+    "updated_at": "2024-04-17T16:41:28.443048Z",
+    "lead_time": 5.917
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/PM22 02-10-2024/18.JPG",
+    "id": 204489,
+    "label": [
+      {
+        "x": 4.123702526092529,
+        "y": 52.187400817871094,
+        "width": 6.595317840576172,
+        "height": 24.793073654174805,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 2048,
+        "original_height": 1152
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36243,
+    "created_at": "2024-04-17T16:41:33.758453Z",
+    "updated_at": "2024-04-17T16:41:33.758481Z",
+    "lead_time": 4.182
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/PM22 02-10-2024/21.JPG",
+    "id": 204490,
+    "label": [
+      {
+        "x": 5.002610206604004,
+        "y": 56.80592727661134,
+        "width": 5.03907299041748,
+        "height": 19.269769725449564,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 2048,
+        "original_height": 1152
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36244,
+    "created_at": "2024-04-17T16:41:44.993430Z",
+    "updated_at": "2024-04-17T16:41:44.993451Z",
+    "lead_time": 10.057
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/PM22 02-10-2024/24.JPG",
+    "id": 204491,
+    "label": [
+      {
+        "x": 2.949882984161377,
+        "y": 57.41699981689453,
+        "width": 4.8750104904174805,
+        "height": 18.926197052001953,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 2048,
+        "original_height": 1152
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36245,
+    "created_at": "2024-04-17T16:42:00.502700Z",
+    "updated_at": "2024-04-17T16:42:00.502724Z",
+    "lead_time": 14.054
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/PM3 02-10-2024/03.JPG",
+    "id": 204492,
+    "label": [
+      {
+        "x": 24.08034133911132,
+        "y": 0.05599558353424072,
+        "width": 17.664380292280015,
+        "height": 86.6317596435547,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36246,
+    "created_at": "2024-04-17T16:42:17.638830Z",
+    "updated_at": "2024-04-17T16:42:17.638852Z",
+    "lead_time": 15.454
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/PM3 02-10-2024/06.JPG",
+    "id": 204493,
+    "label": [
+      {
+        "x": 27.991992950439453,
+        "y": 12.083906173706055,
+        "width": 13.551944732666016,
+        "height": 54.43080520629883,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36247,
+    "created_at": "2024-04-17T16:42:30.331815Z",
+    "updated_at": "2024-04-17T17:34:22.087986Z",
+    "lead_time": 24.83
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/PM3 02-10-2024/09.JPG",
+    "id": 204494,
+    "label": [
+      {
+        "x": 32.250526428222656,
+        "y": 28.549463272094727,
+        "width": 6.3108696937561035,
+        "height": 30.86899757385254,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36248,
+    "created_at": "2024-04-17T16:42:35.631693Z",
+    "updated_at": "2024-04-17T17:34:28.324123Z",
+    "lead_time": 8.083
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/PM3 02-10-2024/12.JPG",
+    "id": 204495,
+    "label": [
+      {
+        "x": 31.47742105301906,
+        "y": 33.23992538452147,
+        "width": 5.94896291914889,
+        "height": 25.69076156616209,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36249,
+    "created_at": "2024-04-17T16:42:57.828926Z",
+    "updated_at": "2024-04-17T17:34:37.978624Z",
+    "lead_time": 25.788999999999998
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/PM3 02-10-2024/15.JPG",
+    "id": 204496,
+    "label": [
+      {
+        "x": 30.885860443115234,
+        "y": 39.05972671508789,
+        "width": 5.845174789428711,
+        "height": 19.106557846069336,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36250,
+    "created_at": "2024-04-17T16:43:03.901203Z",
+    "updated_at": "2024-04-17T17:34:43.078302Z",
+    "lead_time": 8.690000000000001
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/PM3 02-10-2024/18.JPG",
+    "id": 204497,
+    "label": [
+      {
+        "x": 29.415137614678898,
+        "y": 45.321100917431195,
+        "width": 4.541284403669728,
+        "height": 10.825688073394495,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36251,
+    "created_at": "2024-04-17T16:43:12.250820Z",
+    "updated_at": "2024-04-17T17:34:46.782674Z",
+    "lead_time": 9.445
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/PM3 02-10-2024/21.JPG",
+    "id": 204498,
+    "label": [
+      {
+        "x": 31.272935779816514,
+        "y": 46.055045871559635,
+        "width": 3.922018348623851,
+        "height": 10.825688073394495,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36252,
+    "created_at": "2024-04-17T16:43:22.074244Z",
+    "updated_at": "2024-04-17T16:43:22.074268Z",
+    "lead_time": 8.817
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/PM3 02-10-2024/24.JPG",
+    "id": 204499,
+    "label": [
+      {
+        "x": 31.479357798165136,
+        "y": 46.972477064220186,
+        "width": 2.993119266055043,
+        "height": 9.724770642201833,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36253,
+    "created_at": "2024-04-17T16:43:30.428021Z",
+    "updated_at": "2024-04-17T16:43:30.428043Z",
+    "lead_time": 7.332
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/PM6 02-10-2024/03.JPG",
+    "id": 204500,
+    "label": [
+      {
+        "x": 48.91417694091797,
+        "y": 17.028776168823242,
+        "width": 16.66571044921875,
+        "height": 78.62276458740234,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36254,
+    "created_at": "2024-04-17T16:43:34.327247Z",
+    "updated_at": "2024-04-17T16:43:34.327272Z",
+    "lead_time": 2.888
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/PM6 02-10-2024/06.JPG",
+    "id": 204501,
+    "label": [
+      {
+        "x": 46.92183146345504,
+        "y": 44.58724975585937,
+        "width": 10.4324702166636,
+        "height": 51.185226440429666,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36255,
+    "created_at": "2024-04-17T16:43:51.625762Z",
+    "updated_at": "2024-04-17T16:43:51.625771Z",
+    "lead_time": 16.258
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/PM6 02-10-2024/12.JPG",
+    "id": 204502,
+    "label": [
+      {
+        "x": 48.00001525878906,
+        "y": 58.53839111328125,
+        "width": 7.4013991355896,
+        "height": 26.423385620117188,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36256,
+    "created_at": "2024-04-17T16:44:00.225718Z",
+    "updated_at": "2024-04-17T16:44:00.225743Z",
+    "lead_time": 7.455
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/PM6 02-10-2024/15.JPG",
+    "id": 204503,
+    "label": [
+      {
+        "x": 51.35257339477539,
+        "y": 60.770511627197266,
+        "width": 5.738182067871094,
+        "height": 21.73726463317871,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36257,
+    "created_at": "2024-04-17T16:44:04.544825Z",
+    "updated_at": "2024-04-17T16:44:04.544850Z",
+    "lead_time": 2.942
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/PM6 02-10-2024/18.JPG",
+    "id": 204504,
+    "label": [
+      {
+        "x": 49.3348623853211,
+        "y": 62.018348623853214,
+        "width": 5.160550458715591,
+        "height": 19.449541284403665,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36258,
+    "created_at": "2024-04-17T16:44:12.885010Z",
+    "updated_at": "2024-04-17T16:44:21.414483Z",
+    "lead_time": 11.373000000000001
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/PM6 02-10-2024/21.JPG",
+    "id": 204505,
+    "label": [
+      {
+        "x": 51.15106201171875,
+        "y": 65.78268432617188,
+        "width": 3.9213082790374756,
+        "height": 13.773944854736328,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36259,
+    "created_at": "2024-04-17T16:44:36.635274Z",
+    "updated_at": "2024-04-17T16:44:36.635286Z",
+    "lead_time": 11.911
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/PM6 02-10-2024/24.JPG",
+    "id": 204506,
+    "label": [
+      {
+        "x": 49.95412844036697,
+        "y": 66.78899082568807,
+        "width": 3.7155963302752326,
+        "height": 11.559633027522935,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36260,
+    "created_at": "2024-04-17T16:44:45.383639Z",
+    "updated_at": "2024-04-17T16:44:45.383660Z",
+    "lead_time": 7.619
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/PM8 02-10-2024/03.JPG",
+    "id": 204507,
+    "label": [
+      {
+        "x": 25.88167190551759,
+        "y": 3.0518591403961173,
+        "width": 21.745467842172037,
+        "height": 93.88530731201172,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36261,
+    "created_at": "2024-04-17T16:44:55.888788Z",
+    "updated_at": "2024-04-17T16:44:55.888809Z",
+    "lead_time": 9.506
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/PM8 02-10-2024/06.JPG",
+    "id": 204508,
+    "label": [
+      {
+        "x": 32.205295562744126,
+        "y": 46.64205169677734,
+        "width": 13.366969896019071,
+        "height": 50.23416900634764,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36262,
+    "created_at": "2024-04-17T16:45:02.979240Z",
+    "updated_at": "2024-04-17T16:45:02.979253Z",
+    "lead_time": 6.07
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/PM8 02-10-2024/09.JPG",
+    "id": 204509,
+    "label": [
+      {
+        "x": 34.561820983886726,
+        "y": 63.295734405517564,
+        "width": 8.69980689582475,
+        "height": 33.43712615966797,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36263,
+    "created_at": "2024-04-17T16:45:15.624375Z",
+    "updated_at": "2024-04-17T16:45:15.624396Z",
+    "lead_time": 11.51
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/PM8 02-10-2024/12.JPG",
+    "id": 204510,
+    "label": [
+      {
+        "x": 35.94139099121094,
+        "y": 70.72087097167969,
+        "width": 7.865508556365967,
+        "height": 26.14566993713379,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36264,
+    "created_at": "2024-04-17T16:45:21.367783Z",
+    "updated_at": "2024-04-17T16:45:21.367808Z",
+    "lead_time": 4.841
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/PM8 02-10-2024/15.JPG",
+    "id": 204511,
+    "label": [
+      {
+        "x": 39.65685013237349,
+        "y": 77.22975921630857,
+        "width": 5.844379153820359,
+        "height": 19.574630737304684,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36265,
+    "created_at": "2024-04-17T16:45:29.195505Z",
+    "updated_at": "2024-04-17T16:45:29.195527Z",
+    "lead_time": 6.732
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/PM8 02-10-2024/18.JPG",
+    "id": 204512,
+    "label": [
+      {
+        "x": 40.04587155963303,
+        "y": 80.73394495412845,
+        "width": 4.0252293577981675,
+        "height": 15.77981651376146,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36266,
+    "created_at": "2024-04-17T16:45:38.562595Z",
+    "updated_at": "2024-04-17T16:45:38.562616Z",
+    "lead_time": 7.383
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/PM8 02-10-2024/21.JPG",
+    "id": 204513,
+    "label": [
+      {
+        "x": 40.56192660550458,
+        "y": 82.38532110091742,
+        "width": 4.128440366972484,
+        "height": 14.495412844036707,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36267,
+    "created_at": "2024-04-17T16:45:46.546827Z",
+    "updated_at": "2024-04-17T16:45:46.546849Z",
+    "lead_time": 6.837
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/PM8 02-10-2024/24.JPG",
+    "id": 204514,
+    "label": [
+      {
+        "x": 41.28440366972477,
+        "y": 84.58715596330275,
+        "width": 3.6123853211009163,
+        "height": 12.11009174311927,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36268,
+    "created_at": "2024-04-17T16:45:54.069345Z",
+    "updated_at": "2024-04-17T16:45:54.069354Z",
+    "lead_time": 6.615
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/PM9 02-10-2024/06.JPG",
+    "id": 204515,
+    "label": [
+      {
+        "x": 70.3742752075195,
+        "y": 12.08803653717041,
+        "width": 15.114430296311715,
+        "height": 63.115459442138686,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36269,
+    "created_at": "2024-04-17T16:46:02.933935Z",
+    "updated_at": "2024-04-17T16:46:02.933946Z",
+    "lead_time": 7.934
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/PM9 02-10-2024/09.JPG",
+    "id": 204516,
+    "label": [
+      {
+        "x": 75.32722921108981,
+        "y": 25.568441390991193,
+        "width": 9.398459889473168,
+        "height": 40.569377899169915,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36270,
+    "created_at": "2024-04-17T16:46:18.781443Z",
+    "updated_at": "2024-04-17T16:46:18.781463Z",
+    "lead_time": 14.89
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/PM9 02-10-2024/12.JPG",
+    "id": 204517,
+    "label": [
+      {
+        "x": 73.96975708007812,
+        "y": 30.177318572998047,
+        "width": 9.025827407836914,
+        "height": 33.670501708984375,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36271,
+    "created_at": "2024-04-17T16:46:25.999501Z",
+    "updated_at": "2024-04-17T16:46:25.999510Z",
+    "lead_time": 6.011
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/PM9 02-10-2024/15.JPG",
+    "id": 204518,
+    "label": [
+      {
+        "x": 76.1697247706422,
+        "y": 36.88073394495413,
+        "width": 6.089449541284409,
+        "height": 24.403669724770644,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36272,
+    "created_at": "2024-04-17T16:46:36.402264Z",
+    "updated_at": "2024-04-17T16:46:36.402291Z",
+    "lead_time": 9.444
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/PM9 02-10-2024/18.JPG",
+    "id": 204519,
+    "label": [
+      {
+        "x": 75.13761467889908,
+        "y": 39.44954128440368,
+        "width": 5.5733944954128525,
+        "height": 22.018348623853214,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36273,
+    "created_at": "2024-04-17T16:46:48.445092Z",
+    "updated_at": "2024-04-17T16:46:48.445128Z",
+    "lead_time": 11.012
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/PM9 02-10-2024/21.JPG",
+    "id": 204520,
+    "label": [
+      {
+        "x": 75.13761467889908,
+        "y": 39.44954128440367,
+        "width": 4.2316513761467816,
+        "height": 21.467889908256886,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36274,
+    "created_at": "2024-04-17T16:47:04.856637Z",
+    "updated_at": "2024-04-17T16:47:04.856654Z",
+    "lead_time": 15.136
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/PM9 02-10-2024/24.JPG",
+    "id": 204521,
+    "label": [
+      {
+        "x": 75.13761467889908,
+        "y": 42.20183486238535,
+        "width": 3.8188073394495428,
+        "height": 15.59633027522934,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36275,
+    "created_at": "2024-04-17T16:47:53.574120Z",
+    "updated_at": "2024-04-17T16:47:53.574141Z",
+    "lead_time": 47.563
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/cam12 02-10-2024/03.JPG",
+    "id": 204522,
+    "label": [
+      {
+        "x": 26.94936570333778,
+        "y": 2.743947505950928,
+        "width": 25.30831518960655,
+        "height": 84.24656677246097,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 2048,
+        "original_height": 1152
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36276,
+    "created_at": "2024-04-17T16:48:05.559911Z",
+    "updated_at": "2024-04-17T16:48:05.559935Z",
+    "lead_time": 10.841
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/cam12 02-10-2024/06.JPG",
+    "id": 204523,
+    "label": [
+      {
+        "x": 29.58464050292971,
+        "y": 2.773693564834945,
+        "width": 14.101067543029794,
+        "height": 62.00332127142391,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 2048,
+        "original_height": 1152
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36277,
+    "created_at": "2024-04-17T16:48:18.663686Z",
+    "updated_at": "2024-04-17T16:48:18.663705Z",
+    "lead_time": 11.848
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/cam12 02-10-2024/09.JPG",
+    "id": 204524,
+    "label": [
+      {
+        "x": 30.69752703675437,
+        "y": 11.281998634338379,
+        "width": 8.859288110645526,
+        "height": 45.96297454833984,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 2048,
+        "original_height": 1152
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36278,
+    "created_at": "2024-04-17T16:48:29.983385Z",
+    "updated_at": "2024-04-17T16:48:29.983394Z",
+    "lead_time": 10.196
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/cam12 02-10-2024/12.JPG",
+    "id": 204525,
+    "label": [
+      {
+        "x": 29.524120330810547,
+        "y": 22.717206954956055,
+        "width": 7.640165328979492,
+        "height": 32.35334014892578,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 2048,
+        "original_height": 1152
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36279,
+    "created_at": "2024-04-17T16:48:37.954760Z",
+    "updated_at": "2024-04-17T16:48:37.954783Z",
+    "lead_time": 6.74
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/cam12 02-10-2024/15.JPG",
+    "id": 204526,
+    "label": [
+      {
+        "x": 30.240825688073397,
+        "y": 29.724770642201833,
+        "width": 5.67660550458714,
+        "height": 25.688073394495405,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 2048,
+        "original_height": 1152
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36280,
+    "created_at": "2024-04-17T16:48:50.688583Z",
+    "updated_at": "2024-04-17T16:48:50.688609Z",
+    "lead_time": 11.798
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/cam12 02-10-2024/18.JPG",
+    "id": 204527,
+    "label": [
+      {
+        "x": 31.06651376146789,
+        "y": 34.4954128440367,
+        "width": 3.9220183486238436,
+        "height": 19.999999999999982,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 2048,
+        "original_height": 1152
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36281,
+    "created_at": "2024-04-17T16:49:00.573053Z",
+    "updated_at": "2024-04-17T16:49:00.573067Z",
+    "lead_time": 8.832
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/cam12 02-10-2024/21.JPG",
+    "id": 204528,
+    "label": [
+      {
+        "x": 30.963302752293576,
+        "y": 37.247706422018354,
+        "width": 3.61238532110092,
+        "height": 16.69724770642202,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 2048,
+        "original_height": 1152
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36282,
+    "created_at": "2024-04-17T16:49:08.258827Z",
+    "updated_at": "2024-04-17T16:49:08.258850Z",
+    "lead_time": 6.603
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/cam12 02-10-2024/24.JPG",
+    "id": 204529,
+    "label": [
+      {
+        "x": 30.447247706422015,
+        "y": 38.53211009174312,
+        "width": 3.405963302752294,
+        "height": 14.678899082568812,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 2048,
+        "original_height": 1152
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36283,
+    "created_at": "2024-04-17T16:49:15.994630Z",
+    "updated_at": "2024-04-17T16:49:15.994639Z",
+    "lead_time": 6.645
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/cam2 02-10-2024/03.JPG",
+    "id": 204530,
+    "label": [
+      {
+        "x": 50.089881896972656,
+        "y": 2.965313196182251,
+        "width": 27.763076782226562,
+        "height": 93.91984558105469,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36284,
+    "created_at": "2024-04-17T16:49:21.454438Z",
+    "updated_at": "2024-04-17T16:49:21.454458Z",
+    "lead_time": 4.334
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/cam2 02-10-2024/06.JPG",
+    "id": 204531,
+    "label": [
+      {
+        "x": 48.121578216552734,
+        "y": 11.152026176452637,
+        "width": 14.238640785217285,
+        "height": 68.75272369384766,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36285,
+    "created_at": "2024-04-17T16:49:25.703234Z",
+    "updated_at": "2024-04-17T16:49:25.703255Z",
+    "lead_time": 3.14
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/cam2 02-10-2024/09.JPG",
+    "id": 204532,
+    "label": [
+      {
+        "x": 53.15884780883789,
+        "y": 26.46976661682129,
+        "width": 8.993103981018066,
+        "height": 45.04253005981445,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36286,
+    "created_at": "2024-04-17T16:49:31.042278Z",
+    "updated_at": "2024-04-17T16:49:31.042300Z",
+    "lead_time": 4.168
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/cam2 02-10-2024/12.JPG",
+    "id": 204533,
+    "label": [
+      {
+        "x": 53.62978901994335,
+        "y": 33.1965730649616,
+        "width": 7.942543029785155,
+        "height": 34.19839425043225,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36287,
+    "created_at": "2024-04-17T16:49:49.011265Z",
+    "updated_at": "2024-04-17T16:49:49.011283Z",
+    "lead_time": 16.971
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/cam2 02-10-2024/15.JPG",
+    "id": 204534,
+    "label": [
+      {
+        "x": 56.25,
+        "y": 37.61467889908257,
+        "width": 6.399082568807337,
+        "height": 27.339449541284402,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36288,
+    "created_at": "2024-04-17T16:49:58.508917Z",
+    "updated_at": "2024-04-17T16:49:58.508943Z",
+    "lead_time": 8.37
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/cam2 02-10-2024/18.JPG",
+    "id": 204535,
+    "label": [
+      {
+        "x": 55.32110091743119,
+        "y": 41.8348623853211,
+        "width": 5.366972477064223,
+        "height": 22.018348623853214,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36289,
+    "created_at": "2024-04-17T16:50:06.413447Z",
+    "updated_at": "2024-04-17T16:50:06.413491Z",
+    "lead_time": 6.915
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/cam2 02-10-2024/21.JPG",
+    "id": 204536,
+    "label": [
+      {
+        "x": 56.14678899082569,
+        "y": 43.853211009174316,
+        "width": 4.334862385321095,
+        "height": 19.08256880733944,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36290,
+    "created_at": "2024-04-17T16:50:17.922061Z",
+    "updated_at": "2024-04-17T16:50:17.922071Z",
+    "lead_time": 10.406
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/cam2 02-10-2024/24.JPG",
+    "id": 204537,
+    "label": [
+      {
+        "x": 56.86926605504588,
+        "y": 45.50458715596331,
+        "width": 4.334862385321088,
+        "height": 16.330275229357795,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36291,
+    "created_at": "2024-04-17T16:50:25.083333Z",
+    "updated_at": "2024-04-17T16:50:25.083362Z",
+    "lead_time": 6.098
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/cam21 02-10-2024/03.JPG",
+    "id": 204538,
+    "label": [
+      {
+        "x": 43.49322509765625,
+        "y": 2.8795690536499023,
+        "width": 25.252485275268555,
+        "height": 93.93246459960938,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36292,
+    "created_at": "2024-04-17T16:50:31.694051Z",
+    "updated_at": "2024-04-17T16:50:31.694062Z",
+    "lead_time": 5.641
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/cam21 02-10-2024/06.JPG",
+    "id": 204539,
+    "label": [
+      {
+        "x": 48.741703033447266,
+        "y": 17.379892349243164,
+        "width": 12.428932189941406,
+        "height": 66.88387298583984,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36293,
+    "created_at": "2024-04-17T16:50:36.460678Z",
+    "updated_at": "2024-04-17T16:50:36.460697Z",
+    "lead_time": 3.714
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/cam21 02-10-2024/09.JPG",
+    "id": 204540,
+    "label": [
+      {
+        "x": 47.79096984863282,
+        "y": 32.72040939331053,
+        "width": 9.105750040176806,
+        "height": 45.367019653320305,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36294,
+    "created_at": "2024-04-17T16:50:44.166615Z",
+    "updated_at": "2024-04-17T16:50:44.166628Z",
+    "lead_time": 6.751
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/cam21 02-10-2024/12.JPG",
+    "id": 204541,
+    "label": [
+      {
+        "x": 51.81570816040039,
+        "y": 39.32254409790039,
+        "width": 8.814309120178223,
+        "height": 32.185848236083984,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36295,
+    "created_at": "2024-04-17T16:50:54.093330Z",
+    "updated_at": "2024-04-17T16:50:54.093341Z",
+    "lead_time": 8.923
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/cam21 02-10-2024/15.JPG",
+    "id": 204542,
+    "label": [
+      {
+        "x": 51.31813430786134,
+        "y": 45.09003067016603,
+        "width": 6.633027304203141,
+        "height": 25.722158432006836,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36296,
+    "created_at": "2024-04-17T16:51:01.614880Z",
+    "updated_at": "2024-04-17T16:51:01.614905Z",
+    "lead_time": 6.161
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/cam21 02-10-2024/18.JPG",
+    "id": 204543,
+    "label": [
+      {
+        "x": 51.557125091552734,
+        "y": 50.7213134765625,
+        "width": 5.072269439697266,
+        "height": 20.49482536315918,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36297,
+    "created_at": "2024-04-17T16:51:13.935053Z",
+    "updated_at": "2024-04-17T16:51:13.935088Z",
+    "lead_time": 11.056
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/cam21 02-10-2024/21.JPG",
+    "id": 204544,
+    "label": [
+      {
+        "x": 54.701834862385326,
+        "y": 52.11009174311927,
+        "width": 4.231651376146779,
+        "height": 17.798165137614674,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36298,
+    "created_at": "2024-04-17T16:51:21.649495Z",
+    "updated_at": "2024-04-17T16:51:21.649518Z",
+    "lead_time": 6.731
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/cam21 02-10-2024/24.JPG",
+    "id": 204545,
+    "label": [
+      {
+        "x": 54.288990825688074,
+        "y": 52.84403669724771,
+        "width": 4.02522935779816,
+        "height": 16.14678899082569,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36299,
+    "created_at": "2024-04-17T16:51:29.363018Z",
+    "updated_at": "2024-04-17T16:51:29.363040Z",
+    "lead_time": 6.756
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/cam23 02-10-2024/03.JPG",
+    "id": 204546,
+    "label": [
+      {
+        "x": 53.98898696899414,
+        "y": 2.921471118927002,
+        "width": 23.876609802246094,
+        "height": 93.92665100097656,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36300,
+    "created_at": "2024-04-17T16:51:34.919217Z",
+    "updated_at": "2024-04-17T16:51:34.919244Z",
+    "lead_time": 3.718
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/cam23 02-10-2024/06.JPG",
+    "id": 204547,
+    "label": [
+      {
+        "x": 65.27743530273438,
+        "y": 24.168514251708984,
+        "width": 12.887421607971191,
+        "height": 65.66925048828125,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36301,
+    "created_at": "2024-04-17T16:51:39.533822Z",
+    "updated_at": "2024-04-17T16:51:39.533859Z",
+    "lead_time": 3.521
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/cam23 02-10-2024/09.JPG",
+    "id": 204548,
+    "label": [
+      {
+        "x": 68.39773559570312,
+        "y": 36.1804313659668,
+        "width": 8.4949369430542,
+        "height": 46.0777473449707,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36302,
+    "created_at": "2024-04-17T16:51:43.563621Z",
+    "updated_at": "2024-04-17T16:51:43.563630Z",
+    "lead_time": 3.047
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/cam23 02-10-2024/12.JPG",
+    "id": 204549,
+    "label": [
+      {
+        "x": 64.56877899169922,
+        "y": 39.04703903198242,
+        "width": 8.280442237854004,
+        "height": 33.774166107177734,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36303,
+    "created_at": "2024-04-17T16:51:47.806937Z",
+    "updated_at": "2024-04-17T16:51:47.806947Z",
+    "lead_time": 3.318
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/cam23 02-10-2024/15.JPG",
+    "id": 204550,
+    "label": [
+      {
+        "x": 66.77752293577983,
+        "y": 44.03669724770643,
+        "width": 5.47018348623854,
+        "height": 26.238532110091732,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36304,
+    "created_at": "2024-04-17T16:52:00.537887Z",
+    "updated_at": "2024-04-17T16:52:00.537896Z",
+    "lead_time": 11.786
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/cam23 02-10-2024/18.JPG",
+    "id": 204551,
+    "label": [
+      {
+        "x": 69.04816513761467,
+        "y": 48.07339449541285,
+        "width": 4.231651376146786,
+        "height": 18.16513761467889,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36305,
+    "created_at": "2024-04-17T16:52:09.479835Z",
+    "updated_at": "2024-04-17T16:52:09.479862Z",
+    "lead_time": 7.866
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/cam23 02-10-2024/21.JPG",
+    "id": 204552,
+    "label": [
+      {
+        "x": 69.04816513761467,
+        "y": 49.908256880733944,
+        "width": 3.6123853211009163,
+        "height": 16.88073394495413,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36306,
+    "created_at": "2024-04-17T16:52:17.360290Z",
+    "updated_at": "2024-04-17T16:52:17.360318Z",
+    "lead_time": 6.551
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/cam23 02-10-2024/24.JPG",
+    "id": 204553,
+    "label": [
+      {
+        "x": 70.0802752293578,
+        "y": 51.00917431192661,
+        "width": 3.5091743119266,
+        "height": 14.678899082568812,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36307,
+    "created_at": "2024-04-17T16:52:25.674264Z",
+    "updated_at": "2024-04-17T16:52:25.674293Z",
+    "lead_time": 7.014
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/cam26 02-10-2024/03.JPG",
+    "id": 204554,
+    "label": [
+      {
+        "x": 35.88591766357422,
+        "y": 2.993851900100708,
+        "width": 27.92813491821289,
+        "height": 92.71241760253906,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36308,
+    "created_at": "2024-04-17T16:52:31.244470Z",
+    "updated_at": "2024-04-17T16:52:31.244496Z",
+    "lead_time": 4.576
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/cam26 02-10-2024/06.JPG",
+    "id": 204555,
+    "label": [
+      {
+        "x": 41.046478271484375,
+        "y": 5.799883842468262,
+        "width": 11.208534240722656,
+        "height": 67.02750396728516,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36309,
+    "created_at": "2024-04-17T16:52:36.278167Z",
+    "updated_at": "2024-04-17T16:52:36.278176Z",
+    "lead_time": 4.009
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/cam26 02-10-2024/09.JPG",
+    "id": 204556,
+    "label": [
+      {
+        "x": 48.77214813232422,
+        "y": 13.365830421447754,
+        "width": 8.008009910583496,
+        "height": 45.91319274902344,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36310,
+    "created_at": "2024-04-17T16:52:40.603428Z",
+    "updated_at": "2024-04-17T16:52:40.603440Z",
+    "lead_time": 3.16
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/cam26 02-10-2024/12.JPG",
+    "id": 204557,
+    "label": [
+      {
+        "x": 42.41717529296875,
+        "y": 21.593538284301758,
+        "width": 9.260056495666504,
+        "height": 35.096431732177734,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36311,
+    "created_at": "2024-04-17T16:52:47.364964Z",
+    "updated_at": "2024-04-17T16:52:47.364990Z",
+    "lead_time": 5.398
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/cam26 02-10-2024/15.JPG",
+    "id": 204558,
+    "label": [
+      {
+        "x": 44.85892486572266,
+        "y": 27.63243865966797,
+        "width": 6.840240684124304,
+        "height": 26.42336845397949,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36312,
+    "created_at": "2024-04-17T16:52:57.897525Z",
+    "updated_at": "2024-04-17T16:52:57.897539Z",
+    "lead_time": 9.469
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/cam26 02-10-2024/18.JPG",
+    "id": 204559,
+    "label": [
+      {
+        "x": 45.66273498535156,
+        "y": 32.07793426513672,
+        "width": 6.172771453857422,
+        "height": 21.251379013061523,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36313,
+    "created_at": "2024-04-17T16:53:02.801277Z",
+    "updated_at": "2024-04-17T16:53:02.801316Z",
+    "lead_time": 3.73
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/cam26 02-10-2024/21.JPG",
+    "id": 204560,
+    "label": [
+      {
+        "x": 47.88990825688073,
+        "y": 37.61467889908257,
+        "width": 5.0573394495412884,
+        "height": 15.596330275229363,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36314,
+    "created_at": "2024-04-17T16:53:13.641739Z",
+    "updated_at": "2024-04-17T16:53:13.641752Z",
+    "lead_time": 9.785
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/cam26 02-10-2024/24.JPG",
+    "id": 204561,
+    "label": [
+      {
+        "x": 48.922018348623844,
+        "y": 38.71559633027523,
+        "width": 3.715596330275232,
+        "height": 13.211009174311917,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36315,
+    "created_at": "2024-04-17T16:53:26.820793Z",
+    "updated_at": "2024-04-17T16:53:26.820815Z",
+    "lead_time": 12.007
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/pm11.2 02-10-2024/03.JPG",
+    "id": 204562,
+    "label": [
+      {
+        "x": 9.913508415222168,
+        "y": 2.793872356414797,
+        "width": 20.629133836938706,
+        "height": 94.24008178710938,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36316,
+    "created_at": "2024-04-17T16:53:42.606903Z",
+    "updated_at": "2024-04-17T16:53:42.606925Z",
+    "lead_time": 14.849
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/pm11.2 02-10-2024/06.JPG",
+    "id": 204563,
+    "label": [
+      {
+        "x": 21.04257583618164,
+        "y": 51.94242477416992,
+        "width": 14.865779876708984,
+        "height": 44.974769592285156,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36317,
+    "created_at": "2024-04-17T16:53:50.604252Z",
+    "updated_at": "2024-04-17T16:53:50.604276Z",
+    "lead_time": 6.791
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/pm11.2 02-10-2024/09.JPG",
+    "id": 204564,
+    "label": [
+      {
+        "x": 25.62890625,
+        "y": 67.22882080078125,
+        "width": 7.954318046569824,
+        "height": 29.704410552978516,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36318,
+    "created_at": "2024-04-17T16:53:58.301991Z",
+    "updated_at": "2024-04-17T16:53:58.302013Z",
+    "lead_time": 6.604
+  },
+  {
+    "image": "https://biodiv.app/dnd/human_images/pm11.2 02-10-2024/12.JPG",
+    "id": 204565,
+    "label": [
+      {
+        "x": 30.240825688073397,
+        "y": 71.37614678899082,
+        "width": 6.811926605504591,
+        "height": 25.688073394495408,
+        "rotation": 0,
+        "rectanglelabels": [
+          "human"
+        ],
+        "original_width": 1920,
+        "original_height": 1080
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36319,
+    "created_at": "2024-04-17T16:54:22.633300Z",
+    "updated_at": "2024-04-17T16:54:22.633317Z",
+    "lead_time": 23.41
+  }
+]

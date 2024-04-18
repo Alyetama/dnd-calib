@@ -1,0 +1,6 @@
+- stay for a bit more after the person trigger the camera
+- the filtered calib deployment has two human
+- avoid wearing colors that mixes with the nature (background)
+- don't leave the signs visible on the ground, especially if the number is visible
+- hold the sign like a matador
+- look at depth variance using colorspace
