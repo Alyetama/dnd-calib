@@ -187,3 +187,4 @@ project-*.json
 **/
 *.pth
 DistanceEstimation_linux_x64*
+clear_jupyter_output.sh
