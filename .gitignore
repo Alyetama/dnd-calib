@@ -176,15 +176,8 @@ pyrightconfig.json
 # Other
 .DS_Store
 *.zip
-*.gz
+*.json
+downloaded_torrent_files/
 *.db
 *.sqlite
-*.csv
-*.parquet
-*.pt
-Untitled*ipynb
-project-*.json
-**/
-*.pth
-DistanceEstimation_linux_x64*
-clear_jupyter_output.sh
+boxes.json

@@ -32,20 +32,6 @@ Input CSVs + raw images
 
 ## Prerequisites
 
-### Python dependencies
-
-```
-opencv-python
-matplotlib
-numpy
-pandas
-torch
-ultralytics
-Pillow
-loguru
-tqdm
-```
-
 ### Required input files
 
 | File | Description |
